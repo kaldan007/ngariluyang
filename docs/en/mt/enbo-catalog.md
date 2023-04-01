@@ -1,1 +1,0 @@
-# En-Bo translation catalog
