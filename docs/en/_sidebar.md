@@ -1,4 +1,4 @@
 - [About Us](en/about_us.md)
-- [Categories](en/catagories/catalog.md)
+- [Categories](en/categories/catalog.md)
 - [Join Us](en/join_us.md)
 - [Contact](en/contact.md)

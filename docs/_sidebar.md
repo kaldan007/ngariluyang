@@ -1,4 +1,4 @@
 - [ང་ཚོའི་སྐོར།](about_us.md)
-- [ཚན་པ།](catagories/catalog.md)
+- [ཚན་པ།](categories/catalog.md)
 - [ཉམས་ཞུགས།](join_us.md)
 - [འབྲལ་ཐུད།](contact.md)
