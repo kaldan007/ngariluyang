@@ -15,7 +15,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'སྨོན་ལམ་རིག་ནུས།',
+  name: 'མངའ་རིས་གླུ་དབྱངས།',
   search: {
     maxAge: 0, // 86400000 Expiration time, the default one day
     noData: {
@@ -25,7 +25,7 @@ window.$docsify = {
     paths: 'auto',
     placeholder: {
       '/en/': 'Search',
-      '/': 'དབྱིན་ཡིག་འཚོལ།'
+      '/': 'འཚོལ།'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',

@@ -1,10 +1,4 @@
 - [ང་ཚོའི་སྐོར།](about_us.md)
-- ཚན་པ།
-  - [གཞུང་གླུ།](categories/category_01/catalog.md)
-  - [བག་གླུ།](categories/category_02/catalog.md)
-  - [ཞབས་བྲོ།](categories/category_03/catalog.md)
-  - [ཆང་གླུ།](categories/category_04/catalog.md)
-  - [མཇའ་གླུ།](categories/category_05/catalog.md)
-  - [ཚིག་གླུ།](categories/category_06/catalog.md)
+- [ཚན་པ།](catagories/catalog.md)
 - [ཉམས་ཞུགས།](join_us.md)
 - [འབྲལ་ཐུད།](contact.md)

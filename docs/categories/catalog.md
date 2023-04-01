@@ -1,0 +1,6 @@
+- [གཞུང་གླུ།](categories/category_01/catalog.md)
+- [བག་གླུ།](categories/category_02/catalog.md)
+- [ཞབས་བྲོ།](categories/category_03/catalog.md)
+- [ཆང་གླུ།](categories/category_04/catalog.md)
+- [མཇའ་གླུ།](categories/category_05/catalog.md)
+- [ཚིག་གླུ།](categories/category_06/catalog.md)
