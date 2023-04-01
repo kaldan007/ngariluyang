@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <style>
 * {
   box-sizing: border-box;
@@ -41,15 +42,6 @@
 </head>
 <body>
 
-<h2>List View or Grid View</h2>
-
-<p>Click on a button to choose list view or grid view.</p>
-
-<div id="btnContainer">
-  <button class="btn" onclick="listView()"><i class="fa fa-bars"></i> List</button> 
-  <button class="btn active" onclick="gridView()"><i class="fa fa-th-large"></i> Grid</button>
-</div>
-<br>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
@@ -96,40 +88,6 @@
     </div>
   </div>
 </div>
-
-<script>
-// Get the elements with class="column"
-var elements = document.getElementsByClassName("column");
-
-// Declare a loop variable
-var i;
-
-// List View
-function listView() {
-  for (i = 0; i < elements.length; i++) {
-    elements[i].style.width = "100%";
-  }
-}
-
-// Grid View
-function gridView() {
-  for (i = 0; i < elements.length; i++) {
-    elements[i].style.width = "50%";
-  }
-}
-
-/* Optional: Add active class to the current button (highlight it) */
-var container = document.getElementById("btnContainer");
-var btns = container.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
-}
-</script>
-
 </body>
 </html>
 
