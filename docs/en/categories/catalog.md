@@ -1,6 +1,0 @@
-- [Shung Lu](en/categories/category_01/catalog.md)
-- [Bak Lu](en/categories/category_02/catalog.md)
-- [Shab_dho](en/categories/category_01/catalog.md)
-- [Chang Lu](en/categories/category_02/catalog.md)
-- [Zha Lu](en/categories/category_01/catalog.md)
-- [Tseg Lu](en/categories/category_02/catalog.md)
