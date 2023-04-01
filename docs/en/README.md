@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,13 +44,13 @@
 </head>
 <body>
 
-
+<h1>མངའ་རིས་གླུ་དབྱངས།</h1>
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
+        <img class="card-img-top" src="_assets/categories/cat1.png" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Shung Lu</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
@@ -56,9 +58,9 @@
   </div>
   <div class="column" style="background-color:#bbb;">
     <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
+        <img class="card-img-top" src="_assets/categories/cat2.png" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Bak Lu</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
@@ -69,9 +71,9 @@
 <div class="row">
   <div class="column" style="background-color:#ccc;">
     <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
+        <img class="card-img-top" src="_assets/categories/cat3.png" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Shab dho</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
@@ -79,9 +81,31 @@
   </div>
   <div class="column" style="background-color:#ddd;">
     <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="..." alt="Card image cap">
+        <img class="card-img-top" src="_assets/categories/cat4.png" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Chang Lu</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="_assets/categories/cat5.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Zha Lu</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="_assets/categories/cat6.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Tseg Lu</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
@@ -90,4 +114,3 @@
 </div>
 </body>
 </html>
-
