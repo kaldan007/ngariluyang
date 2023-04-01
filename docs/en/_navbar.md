@@ -1,2 +1,1 @@
-- [🤔 Terminology](en/terminology.md)
 - [བོད་ཡིག](/)
