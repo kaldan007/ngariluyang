@@ -44,73 +44,11 @@
 </head>
 <body>
 
-<h1>མངའ་རིས་གླུ་དབྱངས།</h1>
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="_assets/categories/cat1.png" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Shung Lu</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-    </div>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="_assets/categories/cat2.png" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Bak Lu</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-    </div>
-  </div>
-</div>
+<h1>Ngari Luyang</h1>
+Ngari, often referred to as the ocean of songs, is home to a rich musical heritage. In order to preserve and propagate this tradition, the "Ngari Luyang" initiative has been established, focusing on the authentic rendition of various genres of Ngari songs.
 
-<div class="row">
-  <div class="column" style="background-color:#ccc;">
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="_assets/categories/cat3.png" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Shab dho</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-    </div>
-  </div>
-  <div class="column" style="background-color:#ddd;">
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="_assets/categories/cat4.png" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Chang Lu</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="_assets/categories/cat5.png" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Zha Lu</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-    </div>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="_assets/categories/cat6.png" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Tseg Lu</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-    </div>
-  </div>
-</div>
+Efforts are being made to revitalize the dying genres of Ngari music, including Tseglu, Shunglu, and many others. As this initiative is open to collaboration, we kindly invite you to contribute. Contributions can take many forms, such as recording Ngari songs from local artists and forwarding the recordings to us, or transcribing lyrics and emailing them.
+
+We welcome anyone who wishes to utilize our materials, and while not required, a small acknowledgment would be appreciated to aid in raising awareness of this cultural preservation effort.
 </body>
 </html>
