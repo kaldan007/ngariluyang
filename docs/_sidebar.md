@@ -1,6 +1,6 @@
 - [ང་ཚོའི་སྐོར།](about_us.md)
 - ཚན་པ།
-  - [གཞུང་གླུ།](categories/category_01/catalog.md)
+  - [གཞུང་གླུ།](categories/category_01/catalog.html)
   - [བག་གླུ།](categories/category_02/catalog.md)
   - [ཞབས་བྲོ།](categories/category_03/catalog.md)
   - [ཆང་གླུ།](categories/category_04/catalog.md)
